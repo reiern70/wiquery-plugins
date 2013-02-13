@@ -1,0 +1,1 @@
+This project contains several jquery plugings wrapped as wiquery-components 
